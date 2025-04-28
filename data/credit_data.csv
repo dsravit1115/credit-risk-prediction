@@ -1,0 +1,11 @@
+Age,Income,Credit_Score,Employment_Status,Loan_Amount,Credit_Risk
+35,50000,700,Employed,10000,0
+42,60000,650,Self-Employed,15000,1
+28,45000,710,Employed,5000,0
+50,52000,600,Unemployed,8000,1
+31,58000,690,Employed,12000,0
+29,40000,720,Employed,3000,0
+45,62000,640,Self-Employed,14000,1
+38,49000,680,Employed,7000,0
+26,42000,730,Employed,4000,0
+52,55000,610,Unemployed,9000,1
